@@ -8,19 +8,19 @@ Welcome to **ApplicationStugo**, a cutting-edge Flutter project designed to prov
 ![Service Seeker](souwar/5.png)
 Explore the Service Seeker experience with an intuitive and user-friendly interface. Watch the video below to see how users sign up and navigate the app:
 
-[![Watch Service Seeker Side Video](souwar/6.png)](videos/TUGOPART1.mp4)
+[![Watch Service Seeker Side Video](souwar/6.png)](https://youtu.be/tpi8tBRIeMQ)
 
 ### Service Provider Side
 ![Service Provider](souwar/3.png)
 On the Service Provider side, businesses can manage their operations efficiently and seamlessly. Check out the video to see the Service Provider's perspective:
 
-[![Watch Service Provider Side Video](souwar/4.png)](videos/TUGOPART2EDITED.mp4)
+[![Watch Service Provider Side Video](souwar/4.png)](https://youtu.be/4s2hUrutMJw)
 
 ### Code Walkthrough
 ![Code Walkthrough](souwar/1.png)
 Interested in the technical details? Watch the code walkthrough to understand the architecture and flow of the application:
 
-[![Watch Code Walkthrough](souwar/2.png)](videos/TUGOPRT3.mp4)
+[![Watch Code Walkthrough](souwar/2.png)](https://youtu.be/DqihzdMTQgI)
 
 ## Getting Started
 
