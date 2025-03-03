@@ -1,24 +1,32 @@
 # TUGO
 
-Welcome to **TUGO**, a cutting-edge Flutter project designed to provide seamless solutions for both Service Seekers and Service Providers. This project serves as a starting point for a Flutter application, showcasing both Service Seeker and Service Provider Panels, as well as providing a glimpse into the underlying code.
+**TUGO** is a comprehensive multi-services application designed to connect customers seeking various services with service providers who offer those services. The application features two distinct panels: one for service seekers and one for service providers.
+
+## Project Overview
+
+- **Service Seeker Panel:** browse, and interact with services.
+- **Service Provider Panel:** Provides businesses with a platform to manage their services and interact with Service Seekers.
+- **Code Walkthrough:** Provides an overview of the architecture, showcasing the technologies and structure behind the app.
+
+---
 
 ## Showcase
 
 ### Service Seeker Panel
 ![Service Seeker](souwar/5.png)
 **Click the image below to watch the video on how Service Seekers sign up and navigate the app:**
-↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+👇👇👇👇
 [![Watch Service Seeker Panel Video](souwar/6.png)](https://youtu.be/tpi8tBRIeMQ)
 
 ### Service Provider Panel
 ![Service Provider](souwar/3.png)
-**Click the image below to watch the video on how Service Seekers sign up and navigate the app:**
+**Click the image below to watch the video on how Service providers sign up and navigate the app:**
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 [![Watch Service Provider Panel Video](souwar/4.png)](https://youtu.be/4s2hUrutMJw)
 
 ### Code Walkthrough
 ![Code Walkthrough](souwar/1.png)
-**Click the image below to watch the video on how Service Seekers sign up and navigate the app:**
+**Click the image below to watch a code Walkthrough video:**
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ 
 [![Watch Code Walkthrough](souwar/2.png)](https://youtu.be/DqihzdMTQgI)
 
@@ -76,16 +84,7 @@ Here is a list of the key technologies, tools, and packages used in the developm
 - **Google Maps API:** Integrated for location-based features, allowing users and service providers to view and interact with the map.
 - **Email.js API:** For sending emails through the app, used for notifications and other communication.
 
-## Project Overview
-
-- **Service Seeker Panel:** browse, and interact with services.
-- **Service Provider Panel:** Provides businesses with a platform to manage their services and interact with Service Seekers.
-- **Code Walkthrough:** Provides an overview of the architecture, showcasing the technologies and structure behind the app.
-
 ---
 
 Feel free to explore the project and get involved. Contributions are always welcome!
 
----
-
-*Note: Make sure to update the paths in the markdown for your specific project.*
