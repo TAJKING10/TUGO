@@ -6,7 +6,7 @@ Welcome to **ApplicationStugo**, a cutting-edge Flutter project designed to prov
 
 ### Service Seeker Side
 ![Service Seeker](souwar/5.png)
-<span style="color:red;">**Click the image below to watch the video on how Service Seekers sign up and navigate the app:**</span>
+**Click the image below to watch the video on how Service Seekers sign up and navigate the app:**
 
 [![Watch Service Seeker Side Video](souwar/6.png)](https://youtu.be/tpi8tBRIeMQ)
 
