@@ -37,7 +37,7 @@
 ---
 
 ### Code Walkthrough
-![Code Walkthrough](souwar/1.png)`
+![Code Walkthrough](souwar/1.png)
 
 ## **Click the image below to watch a code Walkthrough video:**
 
