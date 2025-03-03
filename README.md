@@ -85,9 +85,9 @@ Here is a list of the key technologies, tools, and packages used in the developm
 ### Backend Development
 - **Firebase:** A cloud-based platform for handling the backend services, including authentication, database management (Firestore), and cloud storage.
 - **Firebase CLI:** Used for deploying and managing Firebase services locally and on the cloud.
+- **Node.js:** Used for running certain backend functions and managing packages.
 
 ### Additional Tools and Technologies
-- **Node.js:** Used for running certain backend functions and managing packages.
 - **Flutter Packages:** Several useful Flutter packages have been incorporated, such as:
     - **cloud_firestore:** For interacting with Firestore (real-time database).
     - **firebase_auth:** For handling authentication (email/password and social media logins).
@@ -98,7 +98,7 @@ Here is a list of the key technologies, tools, and packages used in the developm
 
 ### APIs
 - **Google Maps API:** Integrated for location-based features, allowing users and service providers to view and interact with the map.
-- **Email.js API:** For sending emails through the app, used for notifications and other communication.
+- **Email.js API:** For sending emails through the app, used for notifications and verifications.
 
 ---
 
