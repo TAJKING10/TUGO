@@ -1,20 +1,20 @@
 # TUGO
 
-Welcome to **TUGO**, a cutting-edge Flutter project designed to provide seamless solutions for both Service Seekers and Service Providers. This project serves as a starting point for a Flutter application, showcasing both Service Seeker and Service Provider sides, as well as providing a glimpse into the underlying code.
+Welcome to **TUGO**, a cutting-edge Flutter project designed to provide seamless solutions for both Service Seekers and Service Providers. This project serves as a starting point for a Flutter application, showcasing both Service Seeker and Service Provider Panels, as well as providing a glimpse into the underlying code.
 
 ## Showcase
 
-### Service Seeker Side
+### Service Seeker Panel
 ![Service Seeker](souwar/5.png)
 **Click the image below to watch the video on how Service Seekers sign up and navigate the app:**
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-[![Watch Service Seeker Side Video](souwar/6.png)](https://youtu.be/tpi8tBRIeMQ)
+[![Watch Service Seeker Panel Video](souwar/6.png)](https://youtu.be/tpi8tBRIeMQ)
 
-### Service Provider Side
+### Service Provider Panel
 ![Service Provider](souwar/3.png)
 **Click the image below to watch the video on how Service Seekers sign up and navigate the app:**
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-[![Watch Service Provider Side Video](souwar/4.png)](https://youtu.be/4s2hUrutMJw)
+[![Watch Service Provider Panel Video](souwar/4.png)](https://youtu.be/4s2hUrutMJw)
 
 ### Code Walkthrough
 ![Code Walkthrough](souwar/1.png)
@@ -25,14 +25,6 @@ Welcome to **TUGO**, a cutting-edge Flutter project designed to provide seamless
 ## Getting Started
 
 This project is a starting point for a Flutter application. To get started, follow the instructions below:
-
-### Resources for Beginners
-If this is your first Flutter project, here are a few helpful resources to guide you:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For additional help with Flutter development, check out the [official documentation](https://docs.flutter.dev/), which provides tutorials, samples, and a full API reference.
 
 ## How to Run the Application
 
@@ -86,8 +78,8 @@ Here is a list of the key technologies, tools, and packages used in the developm
 
 ## Project Overview
 
-- **Service Seeker Side:** browse, and interact with services.
-- **Service Provider Side:** Provides businesses with a platform to manage their services and interact with Service Seekers.
+- **Service Seeker Panel:** browse, and interact with services.
+- **Service Provider Panel:** Provides businesses with a platform to manage their services and interact with Service Seekers.
 - **Code Walkthrough:** Provides an overview of the architecture, showcasing the technologies and structure behind the app.
 
 ---
