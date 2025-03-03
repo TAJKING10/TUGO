@@ -15,7 +15,10 @@
 ### Service Seeker Panel
 ![Service Seeker](souwar/5.png)
 **Click the image below to watch the video on how Service Seekers sign up and navigate the app:**
-👇👇👇👇
+
+
+
+                                                      👇👇👇👇
 [![Watch Service Seeker Panel Video](souwar/6.png)](https://youtu.be/tpi8tBRIeMQ)
 
 ### Service Provider Panel
