@@ -56,12 +56,12 @@ To run the application locally on your machine, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/applicationstugo.git
+    git clone https://github.com/yourusername/TUGO.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd applicationstugo
+    cd TUGO
     ```
 
 3. Install dependencies:
@@ -76,7 +76,7 @@ To run the application locally on your machine, follow these steps:
 
 ## Technologies Used
 
-Here is a list of the key technologies, tools, and packages used in the development of **ApplicationStugo**:
+Here is a list of the key technologies, tools, and packages used in the development of **TUGO**:
 
 ### Frontend Development
 - **Flutter:** The primary framework for building the mobile application, enabling cross-platform development for iOS and Android.
