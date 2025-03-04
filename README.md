@@ -20,7 +20,7 @@
 ### **Click the image below to watch the video on how Service Seekers sign up and navigate the app:**  
 
                                                               👇👇👇👇  
-[![Watch Service Seeker Panel Video](souwar/6.png)](https://youtu.be/tpi8tBRIeMQ)  
+[![Watch Service Seeker Panel Video](souwar/6.png)](https://youtu.be/tTpeZyNlGSw)  
 
 ---
 
@@ -30,7 +30,7 @@
 ### **Click the image below to watch the video on how Service Providers sign up and navigate the app:**  
 
                                                               👇👇👇👇  
-[![Watch Service Provider Panel Video](souwar/4.png)](https://youtu.be/4s2hUrutMJw)  
+[![Watch Service Provider Panel Video](souwar/4.png)](https://youtu.be/sxzRsnJE1yA)  
 
 ---
 
@@ -40,7 +40,7 @@
 ### **Click the image below to watch a Code Walkthrough video:**  
 
                                                               👇👇👇👇  
-[![Watch Code Walkthrough](souwar/2.png)](https://youtu.be/DqihzdMTQgI)  
+[![Watch Code Walkthrough](souwar/2.png)](https://youtu.be/7serYYUUOfQ)  
 
 ---
 
