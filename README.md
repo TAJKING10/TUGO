@@ -29,7 +29,7 @@
 
 ### **Click the image below to watch the video on how Service Providers sign up and navigate the app:**  
 
-👇👇👇👇  
+                                                              👇👇👇👇  
 [![Watch Service Provider Panel Video](souwar/4.png)](https://youtu.be/4s2hUrutMJw)  
 
 ---
@@ -39,7 +39,7 @@
 
 ### **Click the image below to watch a Code Walkthrough video:**  
 
-👇👇👇👇  
+                                                              👇👇👇👇  
 [![Watch Code Walkthrough](souwar/2.png)](https://youtu.be/DqihzdMTQgI)  
 
 ---
